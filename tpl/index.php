@@ -10,6 +10,6 @@
     <h1>Gitの練習を行います</h1>
     <p>---------------------------------------</p>
     <h2>足し算を行う</h2>
-    <p>5 + 6 = <?php echo $add_ans ; ?></p>
+    <p><?php echo $num1; ?> + <?php echo $num2; ?> = <?php echo $add_ans ; ?></p>
 </body>
 </html>
